@@ -1,7 +1,7 @@
 {
-  "name": "fs",
+  "name": "rotas",
   "version": "1.0.0",
-  "description": "Exemplo dousoa do módulo nativi fs do Node.js",
+  "description": "",
   "main": "app.js",
   "type": "module",
   "scripts": {
